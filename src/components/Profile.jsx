@@ -28,25 +28,25 @@ const Profile = () => {
           to="/eco-dashboard"
           className="block w-full text-left px-2 py-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700"
         >
-          ⚙️ Eco Dashboard
+          📊 Eco Dashboard
         </Link>
         <Link
           to="/carbon-challenge"
           className="block w-full text-left px-2 py-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700"
         >
-          ⚙️ Carbon Challeneges
+          ♻️ Carbon Challenges
         </Link>
         <Link
           to="/logdailyhabits"
           className="block w-full text-left px-2 py-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700"
         >
-          ⚙️ Log Daily Habits
+          📝 Log Daily Habits
         </Link>
         <Link
           to="/marketplace"
           className="block w-full text-left px-2 py-1 rounded hover:bg-gray-100 dark:hover:bg-gray-700"
         >
-          ⚙️ MarketPlace
+          🛒 Marketplace
         </Link>
         <Link
           to="/setting"
@@ -54,6 +54,7 @@ const Profile = () => {
         >
           ⚙️ Settings
         </Link>
+
       </div>
     )
   );

@@ -26,13 +26,12 @@ const Navbar = () => {
 
   ];
 
-  const citySubmenus = [
-    { name: 'CommunityContribution', path: '/CommunityContribution' },
-    { name: 'CityChallenges', path: '/CityChallenges' },
-    { name: 'CityHeatmapDashboard', path: '/CityHeatmapDashboard' },
-    { name: 'CityDashboard', path: '/CityDashboard' },
-
-  ];
+const citySubmenus = [
+  { name: '🧑‍🤝‍🧑 Community Contribution', path: '/CommunityContribution' },
+  { name: '📢 City Challenges', path: '/CityChallenges' },
+  { name: '🗺️ City Heatmap Dashboard', path: '/CityHeatmapDashboard' },
+  { name: '🏙️ City Dashboard', path: '/CityDashboard' },
+];
 
 
   return (
