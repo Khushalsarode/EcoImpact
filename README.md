@@ -52,7 +52,7 @@ Inspired by the need for **community-driven environmental action** in urban area
    ```bash
    git clone https://github.com/khushalsarode/ecoimpact.git
    cd ecoimpact
-````
+   ```
 
 2. **Install dependencies**
 
